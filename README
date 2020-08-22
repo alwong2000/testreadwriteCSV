@@ -1,0 +1,5 @@
+Created by Alan Wong as trial of writing and reading csv format file as inventory list
+Date: 22/8/2020
+outstanding issues:
+- need to finalize the columns definition, remove the location column
+- need to merge possible duplicate rows and add values of qty column
